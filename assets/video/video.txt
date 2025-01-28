@@ -1,0 +1,7 @@
+class="video"
+
+============== use this formate ======================================================
+<iframe class="video" src="url" title="YouTube video player" frameborder="0"></iframe>
+
+===================================== or ========================================
+<video class="video" src="url"></video> 
